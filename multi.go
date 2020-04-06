@@ -5,7 +5,7 @@ package main
 import ( 
   "fmt" 
 ) 
- 
+ //Test it is working
 const MAX = 1000 
  
 func main() { 
